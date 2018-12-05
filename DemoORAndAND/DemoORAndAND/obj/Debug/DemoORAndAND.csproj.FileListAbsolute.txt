@@ -1,0 +1,7 @@
+C:\Users\hc192171\Desktop\C#\Chapter 4\DemoORAndAND\DemoORAndAND\bin\Debug\DemoORAndAND.exe.config
+C:\Users\hc192171\Desktop\C#\Chapter 4\DemoORAndAND\DemoORAndAND\bin\Debug\DemoORAndAND.exe
+C:\Users\hc192171\Desktop\C#\Chapter 4\DemoORAndAND\DemoORAndAND\bin\Debug\DemoORAndAND.pdb
+C:\Users\hc192171\Desktop\C#\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\DemoORAndAND.csprojAssemblyReference.cache
+C:\Users\hc192171\Desktop\C#\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\DemoORAndAND.csproj.CoreCompileInputs.cache
+C:\Users\hc192171\Desktop\C#\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\DemoORAndAND.exe
+C:\Users\hc192171\Desktop\C#\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\DemoORAndAND.pdb

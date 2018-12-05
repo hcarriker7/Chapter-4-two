@@ -1,0 +1,7 @@
+C:\Users\hc192171\Desktop\C#\Chapter 4\NumberPicker\NumberPicker\bin\Debug\NumberPicker.exe.config
+C:\Users\hc192171\Desktop\C#\Chapter 4\NumberPicker\NumberPicker\bin\Debug\NumberPicker.exe
+C:\Users\hc192171\Desktop\C#\Chapter 4\NumberPicker\NumberPicker\bin\Debug\NumberPicker.pdb
+C:\Users\hc192171\Desktop\C#\Chapter 4\NumberPicker\NumberPicker\obj\Debug\NumberPicker.csprojAssemblyReference.cache
+C:\Users\hc192171\Desktop\C#\Chapter 4\NumberPicker\NumberPicker\obj\Debug\NumberPicker.csproj.CoreCompileInputs.cache
+C:\Users\hc192171\Desktop\C#\Chapter 4\NumberPicker\NumberPicker\obj\Debug\NumberPicker.exe
+C:\Users\hc192171\Desktop\C#\Chapter 4\NumberPicker\NumberPicker\obj\Debug\NumberPicker.pdb

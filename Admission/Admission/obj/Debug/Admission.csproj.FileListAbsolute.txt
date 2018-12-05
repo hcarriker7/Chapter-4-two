@@ -1,0 +1,7 @@
+C:\Users\hc192171\Desktop\C#\Chapter 4\Admission\Admission\bin\Debug\Admission.exe.config
+C:\Users\hc192171\Desktop\C#\Chapter 4\Admission\Admission\bin\Debug\Admission.exe
+C:\Users\hc192171\Desktop\C#\Chapter 4\Admission\Admission\bin\Debug\Admission.pdb
+C:\Users\hc192171\Desktop\C#\Chapter 4\Admission\Admission\obj\Debug\Admission.csprojAssemblyReference.cache
+C:\Users\hc192171\Desktop\C#\Chapter 4\Admission\Admission\obj\Debug\Admission.csproj.CoreCompileInputs.cache
+C:\Users\hc192171\Desktop\C#\Chapter 4\Admission\Admission\obj\Debug\Admission.exe
+C:\Users\hc192171\Desktop\C#\Chapter 4\Admission\Admission\obj\Debug\Admission.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPicker", "NumberPicker\NumberPicker.csproj", "{FDCFD869-5F28-4BDE-975A-CD1011C8774E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDCFD869-5F28-4BDE-975A-CD1011C8774E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCFD869-5F28-4BDE-975A-CD1011C8774E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCFD869-5F28-4BDE-975A-CD1011C8774E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCFD869-5F28-4BDE-975A-CD1011C8774E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0479DB4-5FFD-40E2-AD39-D3D2DA535502}
+	EndGlobalSection
+EndGlobal
